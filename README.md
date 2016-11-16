@@ -27,7 +27,7 @@ Spec Repo是所有的Pods的一个索引，相当于一个容器，把所有公�
 	pod lib create iOS-PodsLibOne
 	
 参考如下，根据自己需要设定
-![img](Snip20161115_1.png)
+![img](https://github.com/sharesin/MySpecs/blob/master/docs/img1.png)
 
 添加测试代码，详见工程`PodsOneLibUtil.h`
 
